@@ -31,3 +31,19 @@ this text is **bold**
 | ----------- | ----------- |
 | Header      | Title |
 | List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
+````css
+#CodeSnippet
+* {
+  box-sizing: border-box;
+}
+html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title></title>
+  <body>
+<main></main>
+  </body>
+</head>
+````
+
+
